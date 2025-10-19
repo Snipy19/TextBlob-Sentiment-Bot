@@ -1,17 +1,20 @@
 💬 Sentiment-Analysis-Chatbot
 
-A simple Python chatbot that performs sentiment analysis using the TextBlob library.
-It detects whether user input is positive, negative, or neutral, and responds accordingly with friendly messages.
+     A simple Python chatbot that performs sentiment analysis using the TextBlob library.
+     It detects whether user input is positive, negative, or neutral, and responds accordingly with friendly messages.
+
+
 
 🚀 Features
 
-  🧠 Real-time sentiment analysis using TextBlob
+     🧠 Real-time sentiment analysis using TextBlob
 
-  💬 Interactive console chatbot
+     💬 Interactive console chatbot
 
-  🎭 Emotion-based responses (positive, negative, neutral)
+     🎭 Emotion-based responses (positive, negative, neutral)
 
-  ⚙️ Lightweight and beginner-friendly — great for learning NLP basics
+     ⚙️ Lightweight and beginner-friendly — great for learning NLP basics
+
 
 
   🧰 Technologies Used
